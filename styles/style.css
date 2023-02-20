@@ -242,7 +242,7 @@ select {
     border: 1px solid #d4d4e3;
     position: fixed;
     top: 10px;
-    left: 400px;
+    right: 400px;
     z-index: 110;
     border-radius: 5px;
     background-color: #fdf9ff;
@@ -363,7 +363,7 @@ select {
         display: flex;
         display: -ms-flex;
         cursor: pointer;
-        left: 20px;
+        right: 20px;
     }
 
     .aside .nav-toggler.open {
