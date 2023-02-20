@@ -334,8 +334,7 @@ select {
 
 .aside .nav-toggler span,
 .aside .nav-toggler span::before,
-.aside .nav-toggler span::after,
-.home .intro .social-links a {
+.aside .nav-toggler span::after {
     background-color: #ec1839;
 }
 
@@ -383,7 +382,6 @@ select {
 .home-content {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
 }
 
 .home-content .home-img img {
